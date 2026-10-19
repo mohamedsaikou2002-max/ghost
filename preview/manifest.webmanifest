@@ -1,0 +1,1 @@
+{"name":"Casper Research Console","short_name":"Casper","description":"Offline-first experimental RF signal and physiology research UI","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#030806","theme_color":"#06130e","icons":[{"src":"casper-icon.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
